@@ -1,0 +1,6 @@
+let doss = prompt("entre numero de dossart")
+
+while(doss!=-1){
+    doss = prompt("entre numero de dossart")   
+     console.log(doss)
+     }
